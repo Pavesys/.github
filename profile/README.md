@@ -15,9 +15,9 @@ Cada projeto tem seu próprio repositório, mantido pela equipe e disponível ap
 ## 🚀 Tecnologias e Ferramentas
 
 **Linguagens**  
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&style=flat-square)  
-![C#](https://img.shields.io/badge/C%23-9.0-blue?logo=c-sharp&style=flat-square)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&style=flat-square)  
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&style=flat-square)
+![C#](https://img.shields.io/badge/C%23-9.0-blue?logo=c-sharp&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&style=flat-square)
 
 **Frameworks & Plataformas**  
