@@ -9,9 +9,6 @@ Esta conta foi criada para armazenar todos os projetos desenvolvidos no Núcleo.
 ## 📋 Sobre o Núcleo:
 O Núcleo de Tecnologia Pavesys (NTP) foi criado pela Pavesys para fomentar a inovação tecnológica no setor, reunindo engenheiros especializados em informática, programação e inteligência artificial a fim de desenvolver e aprimorar soluções avançadas para processos e softwares da empresa.
 
-## 🗂 Estrutura de Repositórios:
-Cada projeto tem seu próprio repositório, mantido pela equipe e disponível apenas para integrantes da Pavesys.
-
 ## 🚀 Tecnologias e Ferramentas
 
 **Linguagens**  
@@ -34,5 +31,11 @@ Eng. Felipe Trois
 Eng. Lucas di Franco  
 Eng. Vinicius Camillo  
 Eng. Luan Somavilla  
+
+## 🗂 Estrutura de Repositórios:
+Cada projeto tem seu próprio repositório, mantido pela equipe e disponível apenas para integrantes da Pavesys.  
+
+## Repositórios
+[Largura de Faixas](https://github.com/Pavesys/largura-faixa)
 
 
