@@ -29,9 +29,9 @@ Cada projeto tem seu próprio repositório, mantido pela equipe e disponível ap
 ## 👥 Time
 Eng. Lucas di Franco  
 Eng. Vinicius Camillo  
-Eng. Luan Somavilla 
-Dev. Michael Leivas
-Dev. Mateus Serafim
+Eng. Luan Somavilla   
+Dev. Michael Leivas  
+Dev. Mateus Serafim  
 
 ## 🗂 Estrutura de Repositórios:
 Cada projeto tem seu próprio repositório, mantido pela equipe e disponível apenas para integrantes da Pavesys.  
